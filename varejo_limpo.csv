@@ -1,0 +1,301 @@
+id_cliente,nome,idade,genero,categoria,valor_compra,quantidade
+C001,Joao Pereira,,Não Informado,Eletrônicos,89.9,1.0
+C002,Cliente Desconhecido,25.0,Masculino,Beleza,10.0,3.0
+C003,Maria Oliveira,35.0,Não Informado,Vestuário,300.0,2.0
+C004,Cliente Desconhecido,25.0,Feminino,Vestuário,300.0,3.0
+C005,Cliente Desconhecido,45.0,Não Informado,Eletrônicos,300.0,
+C006,Carlos Souza,30.0,Masculino,Vestuário,89.9,2.0
+C007,Maria Oliveira,,Feminino,Outros,89.9,4.0
+C008,Maria Oliveira,30.0,Não Informado,Alimentação,89.9,3.0
+C009,Maria Oliveira,30.0,Não Informado,Eletrônicos,150.0,2.0
+C010,Cliente Desconhecido,,Feminino,Vestuário,89.9,3.0
+C011,Joao Pereira,35.0,Masculino,Eletrônicos,89.9,2.0
+C012,Maria Oliveira,45.0,Masculino,Eletrônicos,89.9,1.0
+C013,Cliente Desconhecido,25.0,Não Informado,Alimentação,300.0,3.0
+C014,Cliente Desconhecido,40.0,Feminino,Outros,45.5,4.0
+C015,Carlos Souza,25.0,Feminino,Eletrônicos,150.0,4.0
+C016,Joao Pereira,40.0,Feminino,Vestuário,89.9,
+C017,Cliente Desconhecido,25.0,Feminino,Beleza,300.0,2.0
+C018,Cliente Desconhecido,,Masculino,Eletrônicos,10.0,3.0
+C019,Carlos Souza,45.0,Masculino,Eletrônicos,45.5,
+C020,Joao Pereira,40.0,Feminino,Alimentação,45.5,3.0
+C021,Cliente Desconhecido,150.0,Não Informado,Outros,89.9,2.0
+C022,Ana Silva,35.0,Masculino,Beleza,1200.0,4.0
+C023,Joao Pereira,25.0,Feminino,Vestuário,150.0,1.0
+C024,Carlos Souza,25.0,Não Informado,Beleza,45.5,4.0
+C025,Cliente Desconhecido,40.0,Feminino,Vestuário,89.9,
+C026,Cliente Desconhecido,35.0,Feminino,Outros,89.9,1.0
+C027,Joao Pereira,35.0,Feminino,Vestuário,300.0,
+C028,Ana Silva,,Feminino,Alimentação,10.0,2.0
+C029,Ana Silva,150.0,Feminino,Alimentação,1200.0,1.0
+C030,Maria Oliveira,,Masculino,Alimentação,150.0,
+C031,Maria Oliveira,,Feminino,Alimentação,89.9,2.0
+C032,Carlos Souza,,Não Informado,Beleza,10.0,4.0
+C033,Joao Pereira,,Feminino,Outros,10.0,2.0
+C034,Joao Pereira,,Feminino,Vestuário,300.0,3.0
+C035,Cliente Desconhecido,45.0,Feminino,Vestuário,45.5,2.0
+C036,Cliente Desconhecido,35.0,Masculino,Alimentação,45.5,2.0
+C037,Cliente Desconhecido,,Masculino,Alimentação,300.0,3.0
+C038,Maria Oliveira,35.0,Não Informado,Eletrônicos,89.9,
+C039,Joao Pereira,35.0,Feminino,Outros,45.5,
+C040,Joao Pereira,30.0,Feminino,Beleza,1200.0,2.0
+C041,Ana Silva,45.0,Masculino,Vestuário,150.0,3.0
+C042,Maria Oliveira,,Feminino,Eletrônicos,10.0,3.0
+C043,Cliente Desconhecido,25.0,Masculino,Eletrônicos,10.0,4.0
+C044,Maria Oliveira,40.0,Masculino,Vestuário,1200.0,
+C045,Cliente Desconhecido,150.0,Feminino,Beleza,45.5,1.0
+C046,Ana Silva,25.0,Masculino,Eletrônicos,10.0,
+C047,Carlos Souza,45.0,Não Informado,Eletrônicos,89.9,
+C048,Joao Pereira,40.0,Não Informado,Outros,150.0,4.0
+C049,Ana Silva,45.0,Feminino,Beleza,150.0,1.0
+C050,Joao Pereira,35.0,Masculino,Eletrônicos,10.0,4.0
+C051,Cliente Desconhecido,40.0,Feminino,Beleza,300.0,1.0
+C052,Carlos Souza,35.0,Masculino,Vestuário,10.0,2.0
+C053,Carlos Souza,25.0,Feminino,Alimentação,300.0,1.0
+C054,Ana Silva,25.0,Não Informado,Eletrônicos,10.0,4.0
+C055,Carlos Souza,40.0,Masculino,Outros,89.9,
+C056,Cliente Desconhecido,40.0,Não Informado,Vestuário,89.9,1.0
+C057,Carlos Souza,,Feminino,Beleza,150.0,1.0
+C058,Joao Pereira,45.0,Não Informado,Vestuário,10.0,3.0
+C059,Joao Pereira,,Não Informado,Eletrônicos,89.9,
+C060,Joao Pereira,45.0,Masculino,Beleza,300.0,2.0
+C061,Joao Pereira,,Masculino,Alimentação,300.0,4.0
+C062,Cliente Desconhecido,35.0,Masculino,Vestuário,150.0,2.0
+C063,Maria Oliveira,40.0,Não Informado,Eletrônicos,1200.0,
+C064,Cliente Desconhecido,25.0,Feminino,Outros,10.0,1.0
+C065,Ana Silva,45.0,Não Informado,Beleza,45.5,1.0
+C066,Joao Pereira,45.0,Feminino,Vestuário,300.0,
+C067,Carlos Souza,25.0,Feminino,Vestuário,89.9,1.0
+C068,Joao Pereira,,Masculino,Alimentação,89.9,1.0
+C069,Carlos Souza,45.0,Masculino,Alimentação,300.0,1.0
+C070,Cliente Desconhecido,150.0,Feminino,Outros,1200.0,4.0
+C071,Cliente Desconhecido,35.0,Masculino,Outros,1200.0,4.0
+C072,Cliente Desconhecido,40.0,Masculino,Eletrônicos,89.9,3.0
+C073,Carlos Souza,25.0,Masculino,Eletrônicos,89.9,2.0
+C074,Joao Pereira,40.0,Feminino,Outros,89.9,
+C075,Cliente Desconhecido,150.0,Não Informado,Outros,89.9,
+C076,Cliente Desconhecido,45.0,Não Informado,Beleza,10.0,
+C077,Carlos Souza,45.0,Masculino,Alimentação,10.0,3.0
+C078,Carlos Souza,150.0,Feminino,Eletrônicos,45.5,4.0
+C079,Joao Pereira,25.0,Masculino,Alimentação,10.0,3.0
+C080,Carlos Souza,35.0,Feminino,Alimentação,45.5,
+C081,Carlos Souza,30.0,Masculino,Outros,10.0,2.0
+C082,Cliente Desconhecido,25.0,Masculino,Beleza,150.0,1.0
+C083,Joao Pereira,30.0,Não Informado,Vestuário,10.0,4.0
+C084,Cliente Desconhecido,150.0,Não Informado,Beleza,89.9,4.0
+C085,Cliente Desconhecido,,Não Informado,Beleza,300.0,3.0
+C086,Joao Pereira,30.0,Feminino,Alimentação,89.9,4.0
+C087,Ana Silva,35.0,Não Informado,Beleza,300.0,
+C088,Cliente Desconhecido,,Feminino,Eletrônicos,1200.0,
+C089,Cliente Desconhecido,30.0,Masculino,Alimentação,89.9,3.0
+C090,Cliente Desconhecido,150.0,Feminino,Eletrônicos,1200.0,
+C091,Carlos Souza,,Feminino,Vestuário,45.5,2.0
+C092,Cliente Desconhecido,150.0,Não Informado,Alimentação,45.5,3.0
+C093,Carlos Souza,30.0,Masculino,Vestuário,150.0,2.0
+C094,Ana Silva,150.0,Masculino,Alimentação,10.0,1.0
+C095,Joao Pereira,35.0,Masculino,Outros,89.9,2.0
+C096,Joao Pereira,30.0,Feminino,Beleza,1200.0,1.0
+C097,Joao Pereira,30.0,Não Informado,Outros,300.0,1.0
+C098,Cliente Desconhecido,30.0,Masculino,Vestuário,45.5,2.0
+C099,Ana Silva,25.0,Feminino,Beleza,10.0,3.0
+C100,Cliente Desconhecido,25.0,Masculino,Alimentação,45.5,
+C101,Cliente Desconhecido,25.0,Masculino,Beleza,300.0,
+C102,Ana Silva,35.0,Feminino,Eletrônicos,10.0,1.0
+C103,Ana Silva,,Feminino,Beleza,10.0,1.0
+C104,Ana Silva,150.0,Não Informado,Eletrônicos,1200.0,3.0
+C105,Ana Silva,45.0,Não Informado,Beleza,1200.0,4.0
+C106,Joao Pereira,30.0,Masculino,Eletrônicos,89.9,2.0
+C107,Maria Oliveira,150.0,Masculino,Vestuário,89.9,1.0
+C108,Maria Oliveira,30.0,Masculino,Outros,89.9,
+C109,Ana Silva,35.0,Masculino,Alimentação,89.9,3.0
+C110,Maria Oliveira,30.0,Masculino,Beleza,150.0,2.0
+C111,Maria Oliveira,25.0,Não Informado,Outros,45.5,3.0
+C112,Ana Silva,45.0,Feminino,Alimentação,89.9,2.0
+C113,Maria Oliveira,40.0,Feminino,Alimentação,1200.0,2.0
+C114,Cliente Desconhecido,30.0,Feminino,Eletrônicos,300.0,1.0
+C115,Carlos Souza,150.0,Não Informado,Vestuário,1200.0,3.0
+C116,Carlos Souza,25.0,Masculino,Vestuário,45.5,3.0
+C117,Ana Silva,40.0,Feminino,Outros,89.9,
+C118,Joao Pereira,45.0,Masculino,Vestuário,1200.0,
+C119,Ana Silva,40.0,Feminino,Beleza,150.0,1.0
+C120,Joao Pereira,25.0,Feminino,Vestuário,45.5,1.0
+C121,Carlos Souza,,Feminino,Outros,89.9,4.0
+C122,Ana Silva,,Não Informado,Vestuário,300.0,
+C123,Cliente Desconhecido,40.0,Masculino,Beleza,89.9,2.0
+C124,Cliente Desconhecido,35.0,Masculino,Eletrônicos,10.0,3.0
+C125,Maria Oliveira,150.0,Não Informado,Outros,150.0,1.0
+C126,Joao Pereira,150.0,Não Informado,Eletrônicos,45.5,3.0
+C127,Cliente Desconhecido,40.0,Não Informado,Eletrônicos,300.0,3.0
+C128,Maria Oliveira,30.0,Não Informado,Eletrônicos,150.0,4.0
+C129,Maria Oliveira,30.0,Não Informado,Alimentação,89.9,
+C130,Ana Silva,150.0,Feminino,Alimentação,150.0,1.0
+C131,Maria Oliveira,150.0,Masculino,Eletrônicos,45.5,3.0
+C132,Cliente Desconhecido,,Não Informado,Outros,89.9,1.0
+C133,Cliente Desconhecido,35.0,Masculino,Beleza,150.0,2.0
+C134,Maria Oliveira,25.0,Feminino,Beleza,10.0,4.0
+C135,Ana Silva,30.0,Feminino,Vestuário,150.0,2.0
+C136,Cliente Desconhecido,150.0,Masculino,Outros,89.9,1.0
+C137,Carlos Souza,,Feminino,Alimentação,89.9,1.0
+C138,Cliente Desconhecido,45.0,Masculino,Eletrônicos,300.0,
+C139,Maria Oliveira,,Feminino,Vestuário,89.9,3.0
+C140,Ana Silva,30.0,Feminino,Beleza,1200.0,3.0
+C141,Carlos Souza,30.0,Feminino,Alimentação,45.5,2.0
+C142,Carlos Souza,,Não Informado,Alimentação,45.5,4.0
+C143,Joao Pereira,25.0,Feminino,Eletrônicos,89.9,3.0
+C144,Cliente Desconhecido,40.0,Feminino,Beleza,89.9,
+C145,Maria Oliveira,30.0,Feminino,Outros,45.5,2.0
+C146,Ana Silva,,Masculino,Alimentação,10.0,2.0
+C147,Joao Pereira,150.0,Masculino,Eletrônicos,89.9,
+C148,Cliente Desconhecido,,Masculino,Outros,300.0,4.0
+C149,Joao Pereira,35.0,Masculino,Beleza,89.9,
+C150,Cliente Desconhecido,40.0,Não Informado,Alimentação,45.5,4.0
+C151,Cliente Desconhecido,45.0,Masculino,Outros,89.9,
+C152,Cliente Desconhecido,25.0,Masculino,Outros,45.5,
+C153,Maria Oliveira,45.0,Masculino,Outros,1200.0,1.0
+C154,Cliente Desconhecido,40.0,Masculino,Alimentação,150.0,2.0
+C155,Joao Pereira,40.0,Masculino,Alimentação,89.9,
+C156,Cliente Desconhecido,40.0,Masculino,Vestuário,45.5,
+C157,Maria Oliveira,45.0,Masculino,Beleza,150.0,3.0
+C158,Maria Oliveira,150.0,Masculino,Eletrônicos,89.9,2.0
+C159,Cliente Desconhecido,40.0,Masculino,Outros,150.0,3.0
+C160,Joao Pereira,,Não Informado,Vestuário,89.9,2.0
+C161,Carlos Souza,45.0,Feminino,Eletrônicos,45.5,3.0
+C162,Carlos Souza,40.0,Masculino,Vestuário,1200.0,
+C163,Cliente Desconhecido,,Feminino,Alimentação,10.0,
+C164,Cliente Desconhecido,150.0,Feminino,Outros,89.9,1.0
+C165,Ana Silva,35.0,Feminino,Eletrônicos,45.5,3.0
+C166,Cliente Desconhecido,150.0,Feminino,Eletrônicos,89.9,4.0
+C167,Cliente Desconhecido,40.0,Não Informado,Eletrônicos,89.9,1.0
+C168,Joao Pereira,45.0,Masculino,Eletrônicos,300.0,3.0
+C169,Joao Pereira,30.0,Não Informado,Eletrônicos,150.0,3.0
+C170,Joao Pereira,40.0,Masculino,Vestuário,10.0,1.0
+C171,Joao Pereira,30.0,Não Informado,Outros,89.9,
+C172,Joao Pereira,,Não Informado,Alimentação,300.0,3.0
+C173,Cliente Desconhecido,35.0,Feminino,Alimentação,45.5,
+C174,Cliente Desconhecido,25.0,Não Informado,Alimentação,1200.0,1.0
+C175,Maria Oliveira,150.0,Masculino,Alimentação,89.9,
+C176,Carlos Souza,35.0,Feminino,Vestuário,150.0,2.0
+C177,Joao Pereira,40.0,Não Informado,Beleza,89.9,4.0
+C178,Ana Silva,30.0,Feminino,Outros,10.0,3.0
+C179,Cliente Desconhecido,150.0,Masculino,Eletrônicos,45.5,4.0
+C180,Ana Silva,30.0,Masculino,Beleza,89.9,
+C181,Ana Silva,45.0,Masculino,Alimentação,150.0,3.0
+C182,Ana Silva,30.0,Feminino,Beleza,45.5,
+C183,Maria Oliveira,45.0,Não Informado,Outros,89.9,2.0
+C184,Cliente Desconhecido,,Não Informado,Eletrônicos,1200.0,1.0
+C185,Ana Silva,150.0,Feminino,Eletrônicos,89.9,3.0
+C186,Joao Pereira,150.0,Feminino,Outros,45.5,2.0
+C187,Cliente Desconhecido,25.0,Masculino,Outros,89.9,2.0
+C188,Ana Silva,40.0,Feminino,Alimentação,45.5,3.0
+C189,Maria Oliveira,45.0,Feminino,Eletrônicos,1200.0,
+C190,Cliente Desconhecido,25.0,Não Informado,Beleza,89.9,2.0
+C191,Maria Oliveira,30.0,Masculino,Vestuário,300.0,4.0
+C192,Ana Silva,30.0,Feminino,Vestuário,150.0,2.0
+C193,Cliente Desconhecido,25.0,Feminino,Outros,300.0,
+C194,Cliente Desconhecido,150.0,Feminino,Alimentação,89.9,
+C195,Ana Silva,30.0,Feminino,Vestuário,1200.0,4.0
+C196,Maria Oliveira,,Não Informado,Eletrônicos,300.0,2.0
+C197,Carlos Souza,,Feminino,Outros,45.5,
+C198,Joao Pereira,25.0,Masculino,Beleza,89.9,3.0
+C199,Maria Oliveira,45.0,Feminino,Outros,89.9,1.0
+C200,Cliente Desconhecido,45.0,Feminino,Beleza,300.0,1.0
+C201,Ana Silva,25.0,Feminino,Outros,300.0,1.0
+C202,Joao Pereira,45.0,Não Informado,Outros,1200.0,2.0
+C203,Ana Silva,150.0,Masculino,Outros,150.0,4.0
+C204,Cliente Desconhecido,150.0,Feminino,Beleza,300.0,
+C205,Ana Silva,45.0,Não Informado,Beleza,10.0,3.0
+C206,Carlos Souza,,Não Informado,Outros,300.0,3.0
+C207,Joao Pereira,45.0,Feminino,Vestuário,89.9,2.0
+C208,Joao Pereira,150.0,Não Informado,Alimentação,45.5,1.0
+C209,Cliente Desconhecido,35.0,Não Informado,Alimentação,10.0,2.0
+C210,Carlos Souza,40.0,Não Informado,Alimentação,10.0,4.0
+C211,Maria Oliveira,30.0,Não Informado,Beleza,89.9,4.0
+C212,Ana Silva,35.0,Masculino,Beleza,89.9,
+C213,Cliente Desconhecido,45.0,Masculino,Vestuário,89.9,
+C214,Ana Silva,,Feminino,Alimentação,150.0,4.0
+C215,Ana Silva,25.0,Feminino,Alimentação,45.5,4.0
+C216,Maria Oliveira,45.0,Não Informado,Outros,1200.0,4.0
+C217,Ana Silva,,Feminino,Beleza,10.0,2.0
+C218,Carlos Souza,40.0,Feminino,Alimentação,1200.0,4.0
+C219,Carlos Souza,45.0,Feminino,Vestuário,300.0,3.0
+C220,Joao Pereira,150.0,Não Informado,Vestuário,300.0,1.0
+C221,Cliente Desconhecido,25.0,Não Informado,Alimentação,1200.0,4.0
+C222,Cliente Desconhecido,,Masculino,Beleza,300.0,1.0
+C223,Ana Silva,,Feminino,Vestuário,150.0,2.0
+C224,Ana Silva,,Feminino,Outros,89.9,1.0
+C225,Maria Oliveira,40.0,Masculino,Vestuário,300.0,2.0
+C226,Cliente Desconhecido,45.0,Masculino,Eletrônicos,89.9,3.0
+C227,Carlos Souza,40.0,Masculino,Eletrônicos,300.0,2.0
+C228,Cliente Desconhecido,30.0,Masculino,Beleza,45.5,2.0
+C229,Joao Pereira,30.0,Masculino,Alimentação,150.0,
+C230,Carlos Souza,45.0,Feminino,Beleza,45.5,4.0
+C231,Cliente Desconhecido,150.0,Feminino,Beleza,45.5,4.0
+C232,Joao Pereira,40.0,Masculino,Beleza,89.9,3.0
+C233,Maria Oliveira,25.0,Masculino,Beleza,150.0,3.0
+C234,Maria Oliveira,,Feminino,Outros,150.0,4.0
+C235,Ana Silva,,Masculino,Outros,150.0,
+C236,Cliente Desconhecido,45.0,Não Informado,Vestuário,150.0,4.0
+C237,Cliente Desconhecido,150.0,Feminino,Eletrônicos,150.0,
+C238,Joao Pereira,30.0,Feminino,Beleza,89.9,3.0
+C239,Carlos Souza,30.0,Feminino,Vestuário,300.0,1.0
+C240,Cliente Desconhecido,,Não Informado,Eletrônicos,45.5,3.0
+C241,Cliente Desconhecido,45.0,Não Informado,Alimentação,150.0,3.0
+C242,Maria Oliveira,40.0,Masculino,Outros,10.0,2.0
+C243,Ana Silva,30.0,Feminino,Eletrônicos,300.0,2.0
+C244,Ana Silva,40.0,Feminino,Alimentação,300.0,2.0
+C245,Joao Pereira,150.0,Masculino,Eletrônicos,45.5,2.0
+C246,Maria Oliveira,30.0,Masculino,Outros,89.9,
+C247,Cliente Desconhecido,30.0,Masculino,Outros,1200.0,4.0
+C248,Cliente Desconhecido,35.0,Masculino,Vestuário,1200.0,1.0
+C249,Maria Oliveira,30.0,Masculino,Beleza,300.0,3.0
+C250,Joao Pereira,25.0,Feminino,Eletrônicos,89.9,
+C251,Joao Pereira,45.0,Feminino,Eletrônicos,89.9,1.0
+C252,Maria Oliveira,45.0,Masculino,Alimentação,45.5,
+C253,Joao Pereira,40.0,Masculino,Outros,1200.0,
+C254,Maria Oliveira,150.0,Feminino,Eletrônicos,300.0,3.0
+C255,Carlos Souza,30.0,Feminino,Outros,89.9,4.0
+C256,Maria Oliveira,25.0,Masculino,Eletrônicos,1200.0,2.0
+C257,Maria Oliveira,40.0,Masculino,Vestuário,300.0,4.0
+C258,Joao Pereira,35.0,Feminino,Beleza,300.0,3.0
+C259,Joao Pereira,40.0,Feminino,Eletrônicos,150.0,3.0
+C260,Ana Silva,40.0,Não Informado,Outros,89.9,3.0
+C261,Ana Silva,30.0,Não Informado,Vestuário,150.0,1.0
+C262,Carlos Souza,35.0,Masculino,Eletrônicos,45.5,4.0
+C263,Ana Silva,40.0,Masculino,Alimentação,150.0,4.0
+C264,Maria Oliveira,25.0,Feminino,Beleza,10.0,
+C265,Joao Pereira,25.0,Masculino,Eletrônicos,150.0,
+C266,Ana Silva,45.0,Feminino,Vestuário,10.0,
+C267,Ana Silva,35.0,Masculino,Alimentação,1200.0,3.0
+C268,Carlos Souza,35.0,Masculino,Vestuário,89.9,4.0
+C269,Cliente Desconhecido,45.0,Não Informado,Vestuário,300.0,3.0
+C270,Carlos Souza,40.0,Masculino,Alimentação,10.0,1.0
+C271,Maria Oliveira,35.0,Não Informado,Vestuário,89.9,
+C272,Joao Pereira,25.0,Masculino,Alimentação,150.0,3.0
+C273,Carlos Souza,25.0,Não Informado,Eletrônicos,10.0,3.0
+C274,Ana Silva,30.0,Feminino,Alimentação,89.9,1.0
+C275,Joao Pereira,35.0,Feminino,Alimentação,89.9,2.0
+C276,Joao Pereira,40.0,Feminino,Beleza,89.9,4.0
+C277,Ana Silva,45.0,Feminino,Alimentação,150.0,2.0
+C278,Carlos Souza,45.0,Feminino,Alimentação,45.5,
+C279,Ana Silva,40.0,Feminino,Eletrônicos,150.0,3.0
+C280,Cliente Desconhecido,150.0,Masculino,Beleza,1200.0,1.0
+C281,Joao Pereira,,Masculino,Outros,10.0,1.0
+C282,Cliente Desconhecido,30.0,Feminino,Eletrônicos,300.0,4.0
+C283,Cliente Desconhecido,45.0,Feminino,Eletrônicos,45.5,2.0
+C284,Maria Oliveira,35.0,Feminino,Outros,150.0,4.0
+C285,Ana Silva,30.0,Feminino,Alimentação,89.9,3.0
+C286,Ana Silva,35.0,Não Informado,Vestuário,45.5,4.0
+C287,Maria Oliveira,150.0,Masculino,Beleza,10.0,1.0
+C288,Maria Oliveira,25.0,Não Informado,Vestuário,45.5,1.0
+C289,Maria Oliveira,30.0,Masculino,Outros,10.0,
+C290,Joao Pereira,45.0,Feminino,Eletrônicos,150.0,
+C291,Cliente Desconhecido,30.0,Feminino,Eletrônicos,10.0,3.0
+C292,Ana Silva,30.0,Não Informado,Beleza,45.5,2.0
+C293,Joao Pereira,30.0,Não Informado,Eletrônicos,89.9,4.0
+C294,Maria Oliveira,,Masculino,Eletrônicos,89.9,3.0
+C295,Ana Silva,30.0,Masculino,Beleza,45.5,
+C296,Joao Pereira,35.0,Masculino,Beleza,10.0,4.0
+C297,Cliente Desconhecido,25.0,Não Informado,Outros,89.9,
+C298,Joao Pereira,150.0,Não Informado,Eletrônicos,10.0,4.0
+C299,Cliente Desconhecido,40.0,Feminino,Eletrônicos,89.9,2.0
+C300,Maria Oliveira,30.0,Não Informado,Outros,10.0,3.0
